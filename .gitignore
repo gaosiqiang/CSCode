@@ -33,6 +33,7 @@
 
 # Idea
 .idea
+.vscode/
 
 # a.out
 a.out
