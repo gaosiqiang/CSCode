@@ -38,6 +38,7 @@
 .idea
 .vscode/
 
-# a.out
-a.out
+# runtime files
+*.out
+*.o
 
