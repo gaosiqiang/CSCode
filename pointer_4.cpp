@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-//指针
+//指针-指针变量-2
 int main()
 {
     int a = 100; //定义int变量
@@ -10,7 +10,7 @@ int main()
     cout << a << endl; //101
     cout << p_a << endl; //a的指针
     cout << &a << endl; //a的指针
-    cout << *p_a << endl; //p_a指针变量指向的的a；101
+    cout << *p_a << endl; //p_a指针变量指向的的a：101
     cout << &p_a << endl; //p_a的指针
     return 0;
 }
