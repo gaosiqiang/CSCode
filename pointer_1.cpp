@@ -2,7 +2,7 @@
 #include <typeinfo> //引入typeinfo类库
 using namespace std;
 
-//指针
+//指针-地址运算符
 int main()
 {
     cout << "start" << endl;
