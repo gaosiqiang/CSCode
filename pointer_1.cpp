@@ -2,9 +2,10 @@
 #include <typeinfo> //引入typeinfo类库
 using namespace std;
 
-//指针-地址运算符
+//指针-地址运算符-1
 int main()
 {
+    //int pointer_a = &(int a = 100); //这种表达式是非法代码
     cout << "start" << endl;
     int a = 100;
     cout << "a的指针是：" << &a << endl; //输出变量a的指针
