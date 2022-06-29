@@ -22,6 +22,6 @@ int main()
     cout << p.id << endl; //123
     p.id = 456;
     cout << p.id << endl; //456
-    cout << p.name << endl; //name
+    cout << p.name << endl; //gao
     return 0;
 }
