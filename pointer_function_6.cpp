@@ -12,6 +12,8 @@ using namespace std;
  int *getPtr()
  {
      int a = 20;
+//     int *p = &a;
+//     return p;
      return &a;
  }
 
