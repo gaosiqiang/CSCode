@@ -2,6 +2,11 @@
 
 using namespace std;
 
+/**
+ * 指针-指针与函数-指针做参数-1
+ * @param p1
+ * @param p2
+ */
 void Rank(int *p1, int *p2)
 {
     int temp;
